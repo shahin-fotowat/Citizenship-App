@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Citizenship Quiz</string>
+    <string name="question_declaration">There are 50 states in the United States</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+
+    <string name="born_question">Those who are not born in the US cannot become full citizens..</string>
+    <string name="voluntarily_question">American citizens may expatriate, or voluntarily abandon their citizenship.</string>
+    <string name="foreign_question">A child born on foreign soil whose parents are US citizens that have lived in the US, is automatically a US citizen.</string>
+    <string name="immigration_question">While much attention is given to recent attempts to limit immigration to the US, our founders also found ways to push back against immigration.</string>
+    <string name="aliens_question">The US currently sets no limit on the number of aliens that may enter the US, as long as those aliens enter legally.</string>
+    <string name="illegally_question">Once an immigrant enters the US illegally they have no chance of ever becoming a legal resident.</string>
+    <string name="knowingly_question">It is a crime to knowingly hire an illegal alien.</string>
+    <string name="correct_answer">That\'s Correct</string>
+    <string name="wrong_answer">That\'s Incorrect</string>
+    <string name="back_text">Back</string>
+    <string name="next_text">Next</string>
+</resources>
